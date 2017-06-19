@@ -1,5 +1,4 @@
 # Design pattern is 
-------
 1. Best Practice to common Problem
 2. Template 
 3. Developer Communication
